@@ -16,8 +16,7 @@ Here is an example of your team, and the cost associated:
 > asnwer with graphics. This is an ongoing attempt - see [Future Questions](#future-questions)
 
 > NB:
-> - 'xP' stands for expected points and is created using expected goals, assists, etc. It very accurately predicts 
-    > real points but with far less variance/noise.
+> - 'xP' stands for expected points and is created using expected goals, assists, etc. It very accurately predicts real points but with far less 'noise'.
 > - Value is the player's original value when they played their first game.
 ### 1) Which teams overperformed most relative to their cost last season?
 
