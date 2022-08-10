@@ -94,11 +94,14 @@ Here is an example of your team, and the cost associated:
 
 1) Given you get double points for a captain each week, you should always have Mo Salah and always pick him as
    captain unless you have **very** good reason to do otherwise.
+
 2) **Do not** be cheap with your goalkeeper and defenders. They may not get you the most points but they offer the
    best return on investment - going for the most expensive options is rarely a bad idea.
+
 3) Big clubs offer the best buys. It's boring but the best value for money lies in the best teams, particularly for
    defenders and goalkeepers. Aside from a tiny number of exceptional talents (James Ward-Prowse, Jarrod Bowen, 
    Bukayo Saka) no players outside the top 3-4 teams tend to be good buys.
+
 4) Liverpool > City in terms of value. Liverpool has far less rotation than City and tend to be better value
    for money overall. You're probably making a mistake not maxing out Liverpool picks. 
 
