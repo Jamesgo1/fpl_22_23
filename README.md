@@ -22,7 +22,7 @@ Here is an example of your team, and the cost associated:
 
 #### a) All players:
 
-![graphic](graphics/xp_per_cost_team.png "Cost Per Team")
+![graphic](graphics/xp_per_cost_team.png width=200 "Cost Per Team")
 
 #### b) Only Frequent (played > 900 mins last season) players:
 
