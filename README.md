@@ -16,8 +16,10 @@ Here is an example of your team, and the cost associated:
 > asnwer with graphics. This is an ongoing attempt - see [Future Questions](#future-questions)
 
 > NB:
-> - 'xP' stands for expected points and is created using expected goals, assists, etc. It very accurately predicts real points but with far less 'noise'.
+> - 'xP' stands for expected points and is created using expected goals, assists, etc. It very accurately predicts real
+    points but with far less 'noise'.
 > - Value is the player's original value when they played their first game.
+
 ### 1) Which teams overperformed most relative to their cost last season?
 
 #### a) All players:
@@ -83,8 +85,8 @@ Here is an example of your team, and the cost associated:
 * This data is from the previous season and the value relates to the beginning of that season. The costs have
   changed significantly for some players this season and move them from good value to questionable. However, it
   still remains a good guide.
-* The rotation number is off for some clubs, and should be taken with a pinch of salt - most notably Newcastle who 
-  introduced a lot of new signings (with a new manager) in the January transfer window. 
+* The rotation number is off for some clubs, and should be taken with a pinch of salt - most notably Newcastle who
+  introduced a lot of new signings (with a new manager) in the January transfer window.
 * Obviously new signings from other leagues are not included here. There are a few great options (e.g. Haaland)
   which are not listed here.
 * One season is possibly not the best sample size - it would be interesting to compare these graphs over a number of
@@ -99,11 +101,11 @@ Here is an example of your team, and the cost associated:
    best return on investment - going for the most expensive options is rarely a bad idea.
 
 3) Big clubs offer the best buys. It's boring but the best value for money lies in the best teams, particularly for
-   defenders and goalkeepers. Aside from a tiny number of exceptional talents (James Ward-Prowse, Jarrod Bowen, 
+   defenders and goalkeepers. Aside from a tiny number of exceptional talents (James Ward-Prowse, Jarrod Bowen,
    Bukayo Saka) no players outside the top 3-4 teams tend to be good buys.
 
 4) Liverpool > City in terms of value. Liverpool has far less rotation than City and tend to be better value
-   for money overall. You're probably making a mistake not maxing out Liverpool picks. 
+   for money overall. You're probably making a mistake not maxing out Liverpool picks.
 
 ## Future Questions
 
